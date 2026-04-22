@@ -1,34 +1,42 @@
-![Prints hi in multiple programming languages](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
-## Hi there! 👋
-### My name's Francisco Hernández Santos and I'm a FullStack Developer 
+<div align="center">
 
+![Banner](https://raw.githubusercontent.com/just-dev-creator/just-dev-creator/master/hi.gif)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Paco+👋;FullStack+Developer;Always+learning+new+things...)](https://git.io/typing-svg)
 
-
-- 🔭 I’m working as a fullSTack developer.
-
-- 🌱 I’m currently learning Kotlin.
-
-- 📫 How to reach me: franciscohernandezsantos3@gmail.com.
-
-I have participated in several projects in my career, including:
-
-Moviedick: An Android player with the ability to stream to TV, Chromecast, web, Android TV, and much more.
-
-TDTChannels APP: An Android App that allows you to watch TDT online.
-
-TDTChannels bot: A Telegram group management bot (AntiSpammers: texts, links, images, videos, and files).
-
-Proxy Free List: A Telegram channel where thousands of categorized proxies are sent every 5 minutes, extracted from all existing websites through Web scraping.
-
-I am a person passionate about constant learning and progress, always seeking new challenges and opportunities to grow in my career.
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/pacoDevelop" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Francisco Hernández Santos" height="30" width="40" /></a>
+<p>
+  <a href="https://lnkd.in/eQW_Ngnj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:franciscohernandezsantos3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/pacohernandezsa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pacoDevelop&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Tech stack:</h3>
+</div>
+
+---
+
+## 🧑‍💻 About me
+
+- 🔭 Working as a **FullStack Developer**
+- 🌱 Currently learning **Kotlin**
+- 📍 Based in **Badajoz, Spain**
+- 📫 Reach me at **franciscohernandezsantos3@gmail.com**
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎬 **Moviedick** | Android player with streaming to TV, Chromecast, Android TV and more |
+| 📺 **TDTChannels APP** | Android app to watch TDT online |
+| 🤖 **TDTChannels Bot** | Telegram group management bot with anti-spam for texts, links, images and files |
+| 🌐 **Proxy Free List** | Telegram channel delivering thousands of categorized proxies every 5 minutes via web scraping |
+
+---
+
+## 🛠️ Tech Stack
+
 <table>
 <tr>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></td>
@@ -64,15 +72,17 @@ I am a person passionate about constant learning and progress, always seeking ne
 <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/mongoose/mongoose-original-wordmark.svg" width="40" height="40"/></td>
 </tr>
 </table>
-<h3 align="left">Stats:</h3>
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-    <!-- https://streak-stats.demolab.com/?user=pacodevelop&theme=transparent&hide_border=false -->
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacodevelop&theme=transparent&hide_border=false" alt="Francisco Hernandez Santos" width="100%"/></td>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en" alt="Francisco Hernandez Santos" width="100%"/></td>
+
+---
+
+## 📊 Stats
+
+<table>
+<tr>    <!-- https://streak-stats.demolab.com/?user=pacodevelop&theme=transparent&hide_border=false -->
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=pacodevelop&theme=transparent&hide_border=false" width="100%"/></td>
+<td><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pacoDevelop&show_icons=true&locale=en&theme=transparent" width="100%"/></td>
 </tr>
 <tr>
-<td><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="100%"/></td>
-<td align="center"><img src="https://komarev.com/ghpvc/?username=pacoDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" width="50%" /></td>
+<td colspan="2" align="center"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=pacoDevelop&show_icons=true&locale=en&layout=compact&theme=transparent" width="50%"/></td>
 </tr>
 </table>
